@@ -8,7 +8,7 @@ To get started with RedressOS, you'll need to get familiar with [Source Control 
 
 To initialize your local repository using the RedressOS trees, use a command like this:
 ```
-repo init -u https://github.com/customlineage/android.git -b lineage-22.2 --git-lfs
+repo init -u https://github.com/RedressOSAndroid/android.git -b lineage-22.2 --git-lfs
 ```
 Then to sync up:
 ```
